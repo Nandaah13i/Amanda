@@ -1,2 +1,2 @@
-# Amanda
+# API sobre Redes Sociais 
 Amanda
